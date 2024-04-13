@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 ## edit below variables as per your requirements -
-REPO_NAME = "DVC-NLP-Simple-usecase"
-AUTHOR_USER_NAME = "c17hawke"
+REPO_NAME = "Mlflow-NLP-usecase"
+AUTHOR_USER_NAME = "Harsha"
 SRC_REPO = "src"
 LIST_OF_REQUIREMENTS = []
 

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Mlops_cloud_New/MLFLOW_INeuron/Mlflow_demo/Mlflow-NLP-usecase/mlruns/0/459e7fcde5f6496f8b278cc0e1102944/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 459e7fcde5f6496f8b278cc0e1102944
+run_name: judicious-turtle-174
+run_uuid: 459e7fcde5f6496f8b278cc0e1102944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713010063366
+status: 1
+tags: []
+user_id: Harsha Vardhan Reddy
